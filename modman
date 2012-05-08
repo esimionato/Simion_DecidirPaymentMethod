@@ -1,0 +1,6 @@
+# Simion_DecidirPaymentMethod definition
+app/etc/modules/Simion_DecidirPaymentMethod.xml     app/etc/modules/Simion_DecidirPaymentMethod.xml
+app/code/community/Simion/DecidirPaymentMethod      app/code/community/Simion/DecidirPaymentMethod
+app/design/adminhtml/default/default/layout/simion_decidirpaymentmethod.xml    app/design/adminhtml/default/default/layout/simion_decidirpaymentmethod.xml
+app/locale/en_US/Simion_DecidirPaymentMethod.csv    app/locale/en_US/Simion_DecidirPaymentMethod.csv
+skin/adminhtml/default/default/simion_decidirpaymentmethod.css     skin/adminhtml/default/default/simion_decidirpaymentmethod.css
